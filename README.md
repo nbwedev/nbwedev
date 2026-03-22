@@ -1,6 +1,6 @@
 ## Hi, I'm Neil.
 
-I'm documenting what I learn (almost) every week through a blog. Come check out my learning journey!
+I am currently self-learning and documenting my journey to become a full-stack JavaScript developer.
 
 ---
 
